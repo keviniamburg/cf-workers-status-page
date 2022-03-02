@@ -12,7 +12,7 @@
   }
   
   filter {
-    @apply invert contrast-200;
+    filter: invert(1) contrast(2);
   }
 }
 
